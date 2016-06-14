@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"x"
+			],
+			[
+				"texture",
+				"textureCoordinate"
+			],
+			[
+				"t",
+				"clock_t"
+			],
+			[
+				"RAColor",
+				"RAColorGreen"
+			],
+			[
+				"triangeG",
+				"triangleGroupIndex"
+			],
+			[
+				"triangleGroup",
+				"triangleGroupIndex"
+			],
+			[
+				"RATriangleGroupAdd",
+				"RATriangleGroupAddTrianglesFromRawFile"
+			],
+			[
+				"RAtrianglegroupget",
+				"RATriangleGroupGetTriangleCount"
+			],
+			[
+				"normal",
+				"normalCount"
+			],
+			[
+				"tex",
+				"textureCoordinateCount"
+			],
+			[
+				"text",
+				"textureCoordinates"
+			],
+			[
+				"ambin",
+				"ambientLightColor"
+			],
+			[
+				"RASceneL",
+				"RASceneAddLight"
+			],
+			[
+				"RAVector",
+				"RAVector4Normalize"
+			],
+			[
+				"RAVector3",
+				"RAVector3Make"
+			],
+			[
+				"RAVe",
+				"RAVector3Make"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"RAVEctor",
+				"RAVector3MAke"
+			],
+			[
+				"RAMatrixMake",
+				"RAMatrix4MakeTranslate"
+			],
+			[
+				"RAMatrix",
+				"RAMatrix4MakeTranslate"
+			],
+			[
+				"RARasterDrawTriangle",
+				"RARasterDrawTriangleInterpolated"
+			],
+			[
+				"RAM",
+				"RAMatrix"
+			],
+			[
+				"fill",
+				"RARAsterFillRectangle"
+			],
+			[
+				"labda",
+				"lambda1"
+			],
+			[
+				"RAT",
+				"RATriangle"
+			],
+			[
+				"RAChan",
+				"RAChannelByte"
+			],
+			[
+				"RACha",
+				"RAChannelByte"
+			],
+			[
+				"width",
+				"rasterWidth"
+			],
+			[
+				"R",
+				"RARasterCalculateBarycentricCoordinates"
+			],
+			[
+				"info",
+				"infoHeaderSize"
+			],
+			[
+				"fil",
+				"fileSize"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"ras",
+				"rasterHeight"
+			],
+			[
+				"raster",
+				"rasterWidth"
+			]
+		]
+	},
+	"build_system": "Packages/User/Build/MK.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bruno/Desktop/Raposa/source/RAColor.c",
+		"/C/Users/Bruno/Desktop/Raposa/source/RAScene.c",
+		"/D/Projects/OpenGL/Raposa/legacy/ver1 - triangles/headers/RAVector.h",
+		"/D/Projects/OpenGL/Raposa/legacy/ver1 - triangles/source/RAVector.c",
+		"/D/Projects/OpenGL/Raposa/legacy/ver1 - triangles/source/main.c",
+		"/D/Projects/OpenGL/Raposa/legacy/ver0 - raster/source/main.c",
+		"/D/Projects/OpenGL/Raposa/source/main.c",
+		"/D/Projects/OpenGL/Raposa/source/RAMatrix.c",
+		"/D/Projects/OpenGL/Raposa/headers/RAMatrix.h",
+		"/D/Projects/OpenGL/Raposa/source/RARaster.c",
+		"/D/Projects/OpenGL/Raposa/headers/RARaster.h",
+		"/D/Projects/OpenGL/Raposa/source/RATriangle.c",
+		"/D/Projects/OpenGL/Raposa/headers/RATriangle.h",
+		"/D/Projects/OpenGL/Raposa/source/RAColor.c",
+		"/D/Projects/OpenGL/Raposa/headers/RAColor.h",
+		"/D/Projects/OpenGL/Raposa/source/RAVector.c",
+		"/D/Projects/OpenGL/Raposa/headers/RAVector.h",
+		"/D/Projects/OpenGL/Raposa/source/RAScene.c",
+		"/D/Projects/OpenGL/Raposa/headers/RAScene.h",
+		"/D/Projects/OpenGL/Raposa/source/RATriangleGroup.c",
+		"/D/Projects/OpenGL/Raposa/headers/RATriangleGroup.h",
+		"/D/Projects/OpenGL/Raposa/source/RALight.c",
+		"/D/Projects/OpenGL/Raposa/headers/RALight.h",
+		"/D/Downloads/ptpoly1.cpp",
+		"/D/Programs/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/User/Build/MK.sublime-build",
+		"/D/Projects/OpenGL/software_rasterization/makefile",
+		"/D/Projects/OpenGL/software_rasterization/source/main.c",
+		"/D/Projects/OpenGL/software_rasterization/source/test.c",
+		"/D/Projects/OpenGL/Software_renderer/source/main.c",
+		"/D/Projects/OpenGL/Software_renderer/source/makefile",
+		"/D/Projects/OpenGL/Software_renderer/makefile",
+		"/D/Projects/OpenGL/Software_renderer/obj/main.o",
+		"/D/Projects/OpenGL/Software_renderer/source/test.c",
+		"/D/Projects/OpenGL/Software_renderer/headers/test.h",
+		"/D/Projects/OpenGL/Software_renderer/test.c",
+		"/D/Projects/OpenGL/Software_renderer/test.h",
+		"/D/Projects/OpenGL/Software_renderer/main.c",
+		"/D/Programs/Sublime/Data/Packages/User/Build/GCC.sublime-build",
+		"/D/Projects/OpenGL/Software_renderer/tect.c",
+		"/C/Users/Bruno/Desktop/test.c",
+		"/C/Users/Bruno/Desktop/test.sublime-build"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete",
+			"ppm",
+			"),",
+			"RAMatrix",
+			"RAVector",
+			"RAVector2.h",
+			"RAVector2",
+			"RAVector2.h",
+			"RAVector",
+			"m31"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RAMatrix3",
+			"RAVector2",
+			"RAVector.h",
+			"RAVector2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Mingw32-make",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
